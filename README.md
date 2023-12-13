@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **hidayatupathan@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/hidayat/Desktop/Data%20Science%20Intern%20(4).pdf](file:///C:/Users/hidayat/Desktop/Data%20Science%20Intern%20(4).pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hidayat umar sab pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hidayat umar sab pathan" height="30" width="40" /></a>
